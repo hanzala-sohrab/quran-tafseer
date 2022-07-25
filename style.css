@@ -49,3 +49,7 @@ a:visited {color:#0645ad}
     opacity: 1;
   }
 }
+
+p, h2, h3 {
+  padding: 20px;
+}
